@@ -1,0 +1,14 @@
+h1 {
+    color: #ff4f12;
+    text-align: center;
+}
+p {
+    color: rgba(254, 251, 251, 0.966);
+    font-size: x-large;
+    text-align: center;
+}
+div { 
+    background-color: rgb(120, 0, 255);
+    width: 650px;
+    padding-left: 4px;
+}
